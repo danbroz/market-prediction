@@ -1,0 +1,6 @@
+stock_symbol,currency_symbol,crypto_symbol,company_name
+AAPL,USD,,Apple Inc.
+TSLA,USD,,Tesla Inc.
+BTC-USD,,BTC,Bitcoin
+ETH-USD,,ETH,Ethereum
+EURUSD,EUR/USD,,Euro-USD Forex Pair
