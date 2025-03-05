@@ -223,3 +223,4 @@ json
     }
 ]
 ````
+If you want to turn this into a profitable application/program, I can work for you and generate more business than you can without me.  Contact me at danbroz@gmail.com
