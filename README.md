@@ -1,6 +1,9 @@
 # price-prediction
 Price prediction for Stocks, Crypto, and Currency
+
 Financial Data and Sentiment Analysis APIs for Market Prediction
+
+
 Market Data APIs (Stocks, Crypto, Forex)
 
 
