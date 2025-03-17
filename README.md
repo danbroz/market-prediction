@@ -1,4 +1,4 @@
-# price-prediction
+# market-prediction
 Price prediction for Stocks, Crypto, and Currency
 
 Financial Data and Sentiment Analysis APIs for Market Prediction
